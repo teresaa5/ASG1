@@ -61,20 +61,17 @@ nav a:hover{
 }
 
 .homepg{
-    border-bottom: #723A20;
-    border-width: 20px;
-    border-style: double;
-    padding: 40px;
-    margin: 70px;
+    border-bottom:15px double #723A20;
+    padding-bottom: 30px;
+    margin: 100px;
 }
 .homepg h2{
-    font-size: 50px;
+    font-size: 70px;
+    font-family: Pacifico;
     text-align: center;
     color:#723A20;
-    font-family: Georgia, 'Times New Roman', Times, serif;
     padding-bottom: 30px;
 }
-
 .homepg h3{
     font-size: 30px;
     text-align: center;
