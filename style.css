@@ -60,16 +60,24 @@ nav a:hover{
     color:#D9A964;
 }
 
+
+
 .pic1 {
     display: flex;
 }
 
 .text1{
-    padding: 90px;
+    padding: 10px;
     font-size: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     display: flex;
     align-items: center;
+    background-color: antiquewhite;
+    border-width:20px;
+    border-style:double;
+    border-color:#723A20;
+    margin: 100px;
+       
 }
 
 .pic1 img{
