@@ -13,6 +13,11 @@
     padding: 220px 0;
 }
 
+.w3-container{
+    background-color: #723A20;
+    padding: 30px;
+}
+
 h1 {
     font-size: 30px;
 }
