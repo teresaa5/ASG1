@@ -60,7 +60,18 @@ nav a:hover{
     color:#D9A964;
 }
 
+.homepg h2{
+    font-size: 50px;
+    text-align: center;
+    color:#723A20;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
+.homepg h3{
+    font-size: 30px;
+    text-align: center;
+    color:#D9A964;
+}
 
 .pic1 {
     display: flex;
