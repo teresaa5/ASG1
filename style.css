@@ -67,6 +67,9 @@ nav a:hover{
 .text1{
     padding: 90px;
     font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    align-items: center;
 }
 
 .pic1 img{
