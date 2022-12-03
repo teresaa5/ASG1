@@ -141,7 +141,7 @@ nav a:hover{
 
 footer {
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     align-items: center;
     background-color: #723A20;
     font-family: Pacifico;
@@ -158,9 +158,15 @@ footer .nav img{
     color:black;
 }
 
+.bottom{
+    color: #E9DCDC;
+    font-size: 30px;
+    font-weight: 100;
+    text-align: center;
+}
+
 .socials {
     font-size: 40px;
-    display: flex;
 }
 
 .socials h3{
@@ -170,7 +176,6 @@ footer .nav img{
     text-align: center;
 }
 
-
 .socials ul{
     display: flex;
     justify-content: center;
@@ -179,7 +184,6 @@ footer .nav img{
 .socials ul li{
     padding: 10px;
     list-style-type: none;
-
 }
 
 .socials ul li a{
@@ -191,8 +195,12 @@ footer .nav img{
 }
 
 .opening{
-    font-size: 30px;
+    font-size: 15px;
     color: #E9DCDC;
+}
+
+.opening ul{
+    list-style-type: none;
 }
 /*@media screen and (min-width:425px){
 
