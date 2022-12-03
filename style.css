@@ -94,11 +94,18 @@ nav a:hover{
     padding: 90px;
 }
 
-.text1 {
+.text1{
+    text-align: center;
+    font-size: 35px;
+    color: #723A20;
+}
+
+.sect1 h3{
     text-align: center;
     font-size: 30px;
+    font-family: Pacifico;
+    font-weight: 100;
     color: #723A20;
-    margin-bottom: 90px;
 }
 
 .pic1 img{
@@ -112,6 +119,8 @@ nav a:hover{
     margin-right: 90px;
     margin-left: 90px;
 }
+
+
 
 
 /*@media screen and (min-width:425px){
