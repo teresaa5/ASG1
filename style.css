@@ -102,6 +102,12 @@ nav a:hover{
     color: #723A20;
 }
 
+.sect1 p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color:#D9A964;
+}
+
 .text1{
     text-align: center;
     font-size: 35px;
