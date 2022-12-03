@@ -32,7 +32,8 @@
     font-size: 70px;
     color: #000;;
     margin: 100px;
-    font-family:fantasy;
+    font-family:Pacifico;
+    font-weight: 200;
 }
 
 header{
@@ -143,7 +144,17 @@ nav a:hover{
     align-items: center;
     background-color: #723A20;
     font-family: Pacifico;
-    padding: 10px;
+    padding: 30px;
+}
+
+.footer img{
+    width: 5px;
+    height: 5px;
+}
+
+.about h2{
+    font-family: Pacifico;
+    color:#723A20
 }
 
 /*@media screen and (min-width:425px){
