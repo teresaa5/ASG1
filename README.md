@@ -12,7 +12,10 @@ https://unsplash.com/photos/90HdOlGbjck
 link to homebanner(cropped):
 https://unsplash.com/photos/z3em1GBRhvY
 
-link to tart:
+link to tart(cropped):
 https://unsplash.com/photos/p6OLZPnq810
+
+link to croissant(cropped):
+https://breadsandsweets.com/wp-content/uploads/2021/08/croissant-pic-4.jpg
 
 
