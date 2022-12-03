@@ -16,6 +16,9 @@ link to tart(cropped):
 https://unsplash.com/photos/p6OLZPnq810
 
 link to croissant(cropped):
-https://breadsandsweets.com/wp-content/uploads/2021/08/croissant-pic-4.jpg
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fbreadsandsweets.com%2Fcroissant-recipe%2F&psig=AOvVaw2pp4p8v8Pl8YjOWVzFJvpq&ust=1670170906929000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjZ5M7t3fsCFQAAAAAdAAAAABAE
+
+link to red velvet:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fhandletheheat.com%2Fred-velvet-cake%2F&psig=AOvVaw08bJujhbUpxt0uEkvElPZH&ust=1670170775118000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjt_o_t3fsCFQAAAAAdAAAAABAE
 
 
