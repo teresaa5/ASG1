@@ -9,7 +9,8 @@
 .name h1 {
     font-family: Pacifico;
     font-size: 50px;
-    color:antiquewhite;
+    font-weight: 200;
+    color:#E9DCDC;
 }
 
 .name {
@@ -53,7 +54,7 @@ nav a {
     line-height: 40px;
     text-decoration: none;
     font-size: 25px;
-    color:antiquewhite;
+    color:#E9DCDC;
     padding: 36px 15px;
 }
 
@@ -172,7 +173,7 @@ footer .nav img{
 }
 
 .socials ul li a{
-    color:antiquewhite;
+    color:#E9DCDC;
 }
 
 .socials ul li a:hover{
