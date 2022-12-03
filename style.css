@@ -94,17 +94,17 @@ nav a:hover{
     padding: 70px;
 }
 
-.text1{
-    text-align: center;
-    font-size: 35px;
-    color: #723A20;
-}
-
 .sect1 h3{
     text-align: center;
     font-size: 30px;
     font-family: Pacifico;
     font-weight: 100;
+    color: #723A20;
+}
+
+.text1{
+    text-align: center;
+    font-size: 35px;
     color: #723A20;
 }
 
@@ -118,6 +118,11 @@ nav a:hover{
     height: 400px;
     margin-right: 90px;
     margin-left: 90px;
+}
+
+.pic2 p{
+    padding-right: 90px;
+    padding-left: 90px;
 }
 
 .pic3 img{
