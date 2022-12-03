@@ -208,6 +208,8 @@ footer .nav img{
 .opening ul{
     list-style-type: none;
     font-size: 20px;
+    font-weight: 100;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 /*@media screen and (min-width:425px){
