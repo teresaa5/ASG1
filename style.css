@@ -32,6 +32,7 @@
     font-size: 70px;
     color: #000;;
     margin: 100px;
+    font-family:fantasy;
 }
 
 header{
@@ -136,6 +137,14 @@ nav a:hover{
     height: 400px;
 }
 
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #723A20;
+    font-family: Pacifico;
+    padding: 10px;
+}
 
 /*@media screen and (min-width:425px){
 
