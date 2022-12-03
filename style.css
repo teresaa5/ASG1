@@ -158,6 +158,12 @@ footer .nav img{
     color:black;
 }
 
+.bottom{
+    text-align: center;
+    padding-right: 350px;
+    padding-left: 350px;
+}
+
 .socials {
     font-size: 40px;
     padding: 20px;
@@ -189,12 +195,11 @@ footer .nav img{
 }
 
 .opening{
-    font-size: 15px;
     color: #E9DCDC;
+    padding: 30px;
 }
 
 .opening h3{
-    color: #E9DCDC;
     font-size: 30px;
     font-weight: 10;
     text-align: center;
@@ -202,7 +207,9 @@ footer .nav img{
 
 .opening ul{
     list-style-type: none;
+    font-size: 20px;
 }
+
 /*@media screen and (min-width:425px){
 
 
