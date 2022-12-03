@@ -120,7 +120,10 @@ nav a:hover{
     margin-left: 90px;
 }
 
-
+.pic3 img{
+    width: 400px;
+    height: 400px;
+}
 
 
 /*@media screen and (min-width:425px){
