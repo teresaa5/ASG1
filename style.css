@@ -158,21 +158,15 @@ footer .nav img{
     color:black;
 }
 
-.bottom{
-    color: #E9DCDC;
-    font-size: 30px;
-    font-weight: 100;
-    text-align: center;
-}
-
 .socials {
     font-size: 40px;
+    padding: 20px;
 }
 
 .socials h3{
     color: #E9DCDC;
     font-size: 30px;
-    font-weight: 100;
+    font-weight: 50;
     text-align: center;
 }
 
@@ -197,6 +191,13 @@ footer .nav img{
 .opening{
     font-size: 15px;
     color: #E9DCDC;
+}
+
+.opening h3{
+    color: #E9DCDC;
+    font-size: 30px;
+    font-weight: 10;
+    text-align: center;
 }
 
 .opening ul{
