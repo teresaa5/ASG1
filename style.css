@@ -373,14 +373,15 @@ footer{
     width: 800px;
 }
 
-.button{
-    color: #E9DCDC;
+/* .button{  */
+    JButton button = new JButton("Button");
+    /* color: #E9DCDC;
     font-size: 20px;
     background-color: #723A20;
     border: none;
     text-align: center;
     padding:10px;
-    border-radius: 8px;
+    border-radius: 8px;*/
 }
 
 .button:hover{
