@@ -5,6 +5,23 @@
     box-sizing: border-box;
 }
 
+@media screen and (min-width:425px){
+    
+    .topnav {
+        overflow: hidden;
+        background-color: #723A20;
+        position: relative;
+      }
+
+      .bottom {
+        align-items: center;
+        /* margin-left: 200px; */
+        /* margin-right: 200px; */
+    }
+    
+    
+}
+
 
 .name h1 {
     font-family: Pacifico;
@@ -94,7 +111,9 @@ nav a:hover{
 
 .sect1 {
     display: flex;
-    padding: 70px;
+    margin: 70px;
+    flex-wrap: wrap;
+    width: 100%;
 }
 
 .sect1 h3{
@@ -117,21 +136,40 @@ nav a:hover{
     color: #723A20;
 }
 
+.pic1 {
+    padding: 2%;
+    flex-basis: 15%;
+    display: flex;
+    flex-direction: column;
+}
+
 .pic1 img{
     width: 400px;
     height: 400px;
 }
 
+.pic2 {
+    padding: 2%;
+    flex-basis: 15%;
+    display: flex;
+    flex-direction: column;
+}
+
 .pic2 img{
     width: 400px;
     height: 400px;
-    margin-right: 90px;
-    margin-left: 90px;
 }
 
 .pic2 p{
     padding-right: 90px;
     padding-left: 90px;
+}
+
+.pic3 {
+    padding: 2%;
+    flex-basis: 15%;
+    display: flex;
+    flex-direction: column;
 }
 
 .pic3 img{
@@ -141,11 +179,11 @@ nav a:hover{
 
 footer {
     display: flex;
-    /* justify-content: space-between; */
+    justify-content: center;
     align-items: center;
     background-color: #723A20;
     font-family: Pacifico;
-    padding: 30px;
+
 }
 
 footer .nav img{
@@ -159,13 +197,19 @@ footer .nav img{
 }
 
 .bottom{
-    text-align: center;
-    padding-left: 350px;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+footer{
+    padding: 20px;
 }
 
 .socials {
     font-size: 40px;
-    padding: 20px;
+    flex-basis: 100%;
+    flex-direction: column;
 }
 
 .socials h3{
@@ -201,13 +245,14 @@ footer .nav img{
 
 .opening{
     color: #E9DCDC;
-    padding: 30px;
+    padding: 5%;
+    flex-basis: 30%;
+    flex-direction: column;
 }
 
 .opening h3{
     font-size: 30px;
     font-weight: 10;
-    text-align: center;
 }
 
 .opening ul{
@@ -295,6 +340,13 @@ footer .nav img{
     opacity: 70%;
 }
 
+.fname {
+    padding: 2%;
+    flex-basis: 15%;
+    display: flex;
+    flex-direction: column;
+}
+
 #fn{
     height: 30px;
     font-size: 20px;
@@ -336,11 +388,3 @@ footer .nav img{
     cursor: pointer;
 }
 
-/*@media screen and (min-width:425px){
-
-
-    .pic1 {
-        display: inline;
-    }
-
-}*/
