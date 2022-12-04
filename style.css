@@ -13,12 +13,17 @@
         position: relative;
       }
 
-      .bottom {
+    .bottom {
         align-items: center;
         /* margin-left: 200px; */
         /* margin-right: 200px; */
     }
     
+    .sect1 {
+        flex-grow: 1;
+        flex-basis: 45%;
+        flex-grow: inherit;
+    }
     
 }
 
@@ -316,7 +321,8 @@ footer{
 }
 
 .form {
-    padding-left: 400px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
 .form h3{
@@ -341,9 +347,22 @@ footer{
 }
 
 .fname {
-    padding: 2%;
     flex-basis: 15%;
-    display: flex;
+    flex-direction: column;
+}
+
+.email {
+    flex-basis: 15%;
+    flex-direction: column;
+}
+
+.phone {
+    flex-basis: 15%;
+    flex-direction: column;
+}
+
+.text {
+    flex-basis: 15%;
     flex-direction: column;
 }
 
@@ -373,15 +392,14 @@ footer{
     width: 800px;
 }
 
-/* .button{  */
-    JButton button = new JButton("Button");
-    /* color: #E9DCDC;
+.button{
+    color: #E9DCDC;
     font-size: 20px;
     background-color: #723A20;
     border: none;
     text-align: center;
     padding:10px;
-    border-radius: 8px;*/
+    border-radius: 8px;
 }
 
 .button:hover{
