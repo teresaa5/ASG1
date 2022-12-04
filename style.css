@@ -269,6 +269,18 @@ footer .nav img{
     border: 3px solid #E9DCDC;
     background-color: #E9DCDC;
 }
+
+.form {
+    padding-left: 100px;
+}
+
+.form h3{
+    color: #723A20;
+    font-family: Pacifico;
+    font-size: 50px;
+    font-weight: 100;
+    padding-bottom: 30px;
+}
 /*@media screen and (min-width:425px){
 
 
