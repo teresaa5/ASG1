@@ -239,7 +239,9 @@ footer .nav img{
 .about h3{
     font-family: Pacifico;
     font-size: 50px;
-    padding: 30px;
+    padding-top: 80px;
+    padding-left: 200px;
+    padding-bottom: 30px;
 }
 
 .contact p{
