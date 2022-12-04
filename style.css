@@ -271,7 +271,7 @@ footer .nav img{
 }
 
 .form {
-    padding-left: 100px;
+    padding-left: 400px;
 }
 
 .form h3{
@@ -292,6 +292,7 @@ footer .nav img{
 .form input::placeholder{
     font-size: 20px;
     color: #D9A964;
+    opacity: 70%;
 }
 
 #fn{
@@ -316,6 +317,21 @@ footer .nav img{
 
 #cmt{
     font-size: 20px;
+    height: 120px;
+    width: 800px;
+}
+
+.button{
+    color: #E9DCDC;
+    font-size: 20px;
+    background-color: #723A20;
+    border: none;
+    text-align: center;
+    padding:10px;
+}
+
+.button:hover{
+    color: #D9A964;
 }
 
 /*@media screen and (min-width:425px){
