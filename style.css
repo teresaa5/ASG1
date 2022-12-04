@@ -287,7 +287,28 @@ footer .nav img{
     color: #D9A964;
     font-size: 30px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    
+}
+
+.form input::placeholder{
+    font-size: 30px;
+}
+
+#fn{
+    height: 30px;
+    font-size: 30px;
+}
+
+#ln{
+    height: 30px;
+    font-size: 30px;
+}
+
+#email{
+    height: 30px;
+}
+
+#id{
+    height: 30px;
 }
 
 /*@media screen and (min-width:425px){
