@@ -231,7 +231,6 @@ footer .nav img{
 
 .about p{
     font-size: 20px;
-    padding-right: 200px;
     padding-left: 200px;
     padding-bottom: 30px;
 }
@@ -242,6 +241,10 @@ footer .nav img{
     padding-top: 80px;
     padding-left: 200px;
     padding-bottom: 30px;
+}
+
+.first p{
+    padding-right: 200px;
 }
 
 .second{
