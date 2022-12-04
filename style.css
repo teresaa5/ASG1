@@ -328,10 +328,12 @@ footer .nav img{
     border: none;
     text-align: center;
     padding:10px;
+    border-radius: 8px;
 }
 
 .button:hover{
     color: #D9A964;
+    cursor: pointer;
 }
 
 /*@media screen and (min-width:425px){
