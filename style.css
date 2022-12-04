@@ -159,11 +159,6 @@ nav a:hover{
     height: 400px;
 }
 
-.pic2 p{
-    padding-right: 90px;
-    padding-left: 90px;
-}
-
 .pic3 {
     padding: 2%;
     flex-basis: 15%;
