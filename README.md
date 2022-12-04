@@ -9,12 +9,17 @@ The third page is “Contact us”. Which contains details on how to contact us.
 At the bottom of every page, it gives users information on our socials, address as well as our opening timings.
 
 
-Purpose of application:
+User audience intent and purpose:
 purpose of application is to allow users to learn more about the bakery through this website. They will be able to learn about the products we sell, how to contact us as well as about more shop.
 
+Who the website is catering for? Value that it is providing to users
+The website is catered towards the general public who are trying to learn more about out shop. It is valuable for users as it allows users to learn more about us without having to ask about us in real life. They can also contact us online and need not come down to our physical shop to do so.
+
+What is the website catering for?
+The website is catering for or bakery, "Himbo Bakeries". Showcasing our best-selling products, our contact information as well as how to contact us and more about our business like why we do what we do.
 
 
-
+links to pictures:
 
 link to banner 1:
 https://unsplash.com/photos/8QRvzJGumSw
