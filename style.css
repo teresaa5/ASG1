@@ -284,13 +284,14 @@ footer .nav img{
 
 .form div{
     padding-bottom: 30px;
-    color: #D9A964;
+    color: #723A20;
     font-size: 30px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .form input::placeholder{
-    font-size: 30px;
+    font-size: 20px;
+    color: #D9A964;
 }
 
 #fn{
