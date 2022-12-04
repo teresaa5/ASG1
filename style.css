@@ -250,6 +250,7 @@ footer .nav img{
 
 .second{
     display: flex;
+    align-items: center;
 }
 
 .second img{
