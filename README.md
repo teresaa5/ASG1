@@ -1,4 +1,16 @@
 # ASG1
+Purpose of application:
+purpose of application is to allow users to learn more about the bakery through this website. They will be able to learn about the products we sell, how to contact us as well as about more shop.
+
+The first page is the home page as well as the main page of the website. It shows the best-selling porducts from the bakery as well as contains descriptions of them.
+
+The second page is “About us”, containing information about the company. It contains things such a description of the company, and more about the products we sell. Additionally, it contains information about our mission and values.
+
+The third page is “Contact us”. Which contains details on how to contact us. This includes our company’s contact and email which will allow customers to reach us. It also contains a form which customers can fill out to reach us.
+
+At the bottom of every page, it gives users information on our socials, address as well as our opening timings.
+
+
 
 link to banner 1:
 https://unsplash.com/photos/8QRvzJGumSw
